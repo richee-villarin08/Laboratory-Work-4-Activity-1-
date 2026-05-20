@@ -1,6 +1,16 @@
 
 [#Laboratory Work 4 Activity Colab](https://colab.research.google.com/drive/1Ed8A8mFloHQj3YoBx4C9S2ZW5SEGJSxS?usp=sharing).
 
+| Metric              | Baseline Model | Improved Model |
+| ------------------- | -------------- | -------------- |
+| Training Accuracy   | 50%            | 73%            |
+| Validation Accuracy | 61%            | 74%            |
+| Precision           | 0.73           | 0.76           |
+| Recall              | 0.72           | 0.75           |
+| F1-score            | 0.72           | 0.75           |
+| AUC Score           | 0.943          | 0.949          |
+| Training Loss       | 1.63           | 0.81           |
+| Validation Loss     | 1.28           | 0.86           |
 
 #GUIDE QUESTIONS (Student Explanation & Reflection)
 A. Model Evaluation Analysis
